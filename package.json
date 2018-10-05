@@ -1,0 +1,15 @@
+{
+  "name": "vscode-snippet",
+  "description": "Command line tool for generating VSCode snippets.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": {
+    "name": "Jesse Dunlap",
+    "email": "jesse@hydrais.com",
+    "url": "https://github.com/jessedunlap"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
