@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const program = require('yargs');
-const package = require('./package.json');
+const package = require('../package.json');
 const fs = require('fs');
 
 program
