@@ -1,7 +1,7 @@
 {
   "name": "vscode-snippet",
   "description": "Command line tool for generating VSCode snippets.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "bin/index.js",
   "author": {
     "name": "Jesse Dunlap",
