@@ -15,7 +15,7 @@ vscode-snippet ./InputFile.js
 
 # Advanced Usage
 
-```bash
+```
 $ vscode-snippet generate --help
 
 vscode-snippet generate <input>
